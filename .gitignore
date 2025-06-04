@@ -1,0 +1,7 @@
+*.xlsx
+*.zip
+__pycache__/
+*.pyc
+screener_data_*/
+.env
+credentials.txt
